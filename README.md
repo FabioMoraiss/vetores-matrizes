@@ -1,4 +1,4 @@
-# Repositório de Ajuda com Vetores — Lógica de Programação
+# Repositório de Ajuda com Vetores e Matrizes — Lógica de Programação
 
 Este repositório foi criado com o objetivo de **auxiliar os alunos da disciplina de Lógica de Programação**, com o conteúdo de **vetores**, reunindo exemplos e funções reutilizáveis que facilitam a compreensão dos conceitos fundamentais.
 
